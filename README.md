@@ -2,9 +2,6 @@
 title: "Getting and Cleaning Data - Course Project README"
 author: "Clint Boylan"
 date: "22 November 2015"
-output:
-  html_document:
-    keep_md: yes
 ---
 
 ## Project Description
